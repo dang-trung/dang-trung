@@ -10,7 +10,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=pycharm&style=flat&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
-<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250">
+<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Quantitative Analysis
 
