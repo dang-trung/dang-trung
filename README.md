@@ -20,7 +20,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
 
-### Connect
+### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-white.svg?&logo=gmail&logoColor=)](mailto:dangtrung@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white.svg?&logo=linkedin&logoColor=blue)](https://linkedin.com/in/dang-trung
 )
