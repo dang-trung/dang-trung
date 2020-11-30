@@ -15,8 +15,8 @@
 ### Quantitative skills:
 
 ![Econometrics](https://img.shields.io/badge/-📕%20Econometrics-white)
-![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
 ![Time Series Models](https://img.shields.io/badge/-📉%20Time%20Series%20Models-white)
+![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-white)
 
 ### Find me at:
