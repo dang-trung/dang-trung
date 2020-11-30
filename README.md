@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/intro.gif)](https://dang-trung.github.io/)
+[![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/intro.gif)](https://dang-trung.github.io/)
 
 _Research Intern at [Center VERA](https://www.unive.it/pag/35190/)_ <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="25">  
-_MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_ <img src="https://raw.githubusercontent.com/dang-trung/dang-trung/master/graduation.gif" width="25">
+_MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_ <img src="https://raw.githubusercontent.com/dang-trung/dang-trung/assets/master/graduation.gif" width="25">
 
 ### Languages & tools:
 
