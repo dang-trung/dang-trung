@@ -1,5 +1,7 @@
 [![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/intro.gif)](https://dang-trung.github.io/)
 
+_Research Assistant Intern at [Center VERA](https://www.unive.it/pag/35190/)_ <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="35">  
+_MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_  <img src="https://media.giphy.com/media/Ypx465q8xKDCQe7vnO/giphy.gif" width="35">
 
 ### Languages & tools:
 
@@ -23,3 +25,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-white.svg?&logo=gmail&logoColor=)](mailto:dangtrung@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white.svg?&logo=linkedin&logoColor=blue)](https://linkedin.com/in/dang-trung)
 [![GitHub](https://img.shields.io/badge/-GitHub-white.svg?&logo=github&logoColor=black)](https://github.com/dang-trung/)
+[![Website](https://img.shields.io/badge/-⭐%20Website-white)](https://dang-trung.github.io/)
