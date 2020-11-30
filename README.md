@@ -12,10 +12,11 @@
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
 <img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
-### Quantitative Analysis
+### Quantitative Skills
 
 ![Econometrics](https://img.shields.io/badge/-📕%20Econometrics-white)
-![Time Series](https://img.shields.io/badge/-📉%20Time%20Series-white)
+![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
+![Time Series Models](https://img.shields.io/badge/-📉%20Time%20Series%20Models-white)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-white)
 
 ### Contact me
