@@ -21,7 +21,7 @@ _MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/1
 ![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-white)
 
-### Connect with me via:
+### Find me at:
 [![Gmail](https://img.shields.io/badge/-Gmail-white.svg?&logo=gmail&logoColor=)](mailto:dangtrung@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white.svg?&logo=linkedin&logoColor=blue)](https://linkedin.com/in/dang-trung)
 [![GitHub](https://img.shields.io/badge/-GitHub-white.svg?&logo=github&logoColor=black)](https://github.com/dang-trung/)
