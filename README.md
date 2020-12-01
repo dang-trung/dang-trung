@@ -9,7 +9,6 @@ _MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/1
 [![MATLAB](https://img.shields.io/badge/-MATLAB-white?&logo=Mathworks&logoColor=ffa500)](https://github.com/dang-trung?tab=repositories&q=&type=&language=matlab)
 [![R](https://img.shields.io/badge/-R-white?&logo=R&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=r)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
-<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&style=flat)
@@ -19,6 +18,7 @@ _MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/1
 ![Keras](https://img.shields.io/badge/-Keras-fff?&logo=keras&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask&style=flat&logoColor=black)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
+<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Fields:
 
