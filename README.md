@@ -8,18 +8,22 @@ _MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/1
 [![Python](https://img.shields.io/badge/-Python-white?&logo=python&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=python)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-white?&logo=Mathworks&logoColor=ffa500)](https://github.com/dang-trung?tab=repositories&q=&type=&language=matlab)
 [![R](https://img.shields.io/badge/-R-white?&logo=R&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=r)
+[![HTML](https://img.shields.io/badge/-HTML-white?&logo=html5&logoColor=E34F26)](https://github.com/dang-trung?tab=repositories&q=&type=&language=html)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
 
-### Tools & Frameworks:
+### Tools:
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=pycharm&style=flat&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=jupyter&style=flat)
+![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
+<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+
+### Frameworks:
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-fff?&logo=scikit-learn&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=tensorflow&style=flat)
 ![Keras](https://img.shields.io/badge/-Keras-fff?&logo=keras&style=flat&logoColor=d00000)
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=django&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask&style=flat&logoColor=black)
-![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
-<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Fields:
 
