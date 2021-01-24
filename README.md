@@ -10,19 +10,20 @@ _MSc in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/1
 [![R](https://img.shields.io/badge/-R-white?&logo=R&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=r)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
 
-### Tools:
+### Tools & Frameworks:
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=git&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=pycharm&style=flat&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=jupyter&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?&logo=tensorflow&style=flat)
 ![Keras](https://img.shields.io/badge/-Keras-fff?&logo=keras&style=flat&logoColor=d00000)
+![Django](https://img.shields.io/badge/-Django-fff?&logo=django&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask&style=flat&logoColor=black)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
 <img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Fields:
 
-![Econometrics](https://img.shields.io/badge/-📕%20Econometrics-white)
+![Machine Learning](https://img.shields.io/badge/-🤖%20Machine%20Learning-white)
 ![Time Series Models](https://img.shields.io/badge/-📉%20Time%20Series%20Models-white)
 ![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-white)
