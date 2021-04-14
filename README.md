@@ -9,6 +9,7 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 [![MATLAB](https://img.shields.io/badge/-MATLAB-white?&logo=Mathworks&logoColor=ffa500)](https://github.com/dang-trung?tab=repositories&q=&type=&language=matlab)
 [![R](https://img.shields.io/badge/-R-white?&logo=R&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=r)
 [![HTML](https://img.shields.io/badge/-HTML-white?&logo=html5&logoColor=E34F26)](https://github.com/dang-trung?tab=repositories&q=&type=&language=html)
+[![CSS](https://img.shields.io/badge/-CSS-white?&logo=css3&logoColor=1572B6)](https://github.com/dang-trung?tab=repositories&q=&type=&language=html)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?&logo=PostgreSQL&logoColor=336791)
 
 ### Tools:
@@ -16,6 +17,7 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=pycharm&style=flat&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=jupyter&style=flat)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
+![Tableau](https://img.shields.io/badge/-Tableau-white?&logo=Tableau&logoColor=E97627)
 <img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
 ### Frameworks:
@@ -25,12 +27,15 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=django&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-fff?&logo=flask&style=flat&logoColor=black)
 
-### Fields:
-
-![Machine Learning](https://img.shields.io/badge/-🤖%20Machine%20Learning-white)
-![Time Series Models](https://img.shields.io/badge/-📉%20Time%20Series%20Models-white)
-![Stochastic Calculus](https://img.shields.io/badge/-📚%20Stochastic%20Calculus-white)
+### Interests:
+![Algorithmic Trading](https://img.shields.io/badge/-%F0%9F%A4%96%20Algorithmic%20Trading-white)
+![Machine Learning](https://img.shields.io/badge/-🔥%20Machine%20Learning-white)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-white)
+
+### Trying to Learn:
+![C++](https://img.shields.io/badge/-C++-white?&logo=c%2B%2B&logoColor=00599C)
+![Julia](https://img.shields.io/badge/-Julia-white?&logo=Julia&logoColor=9558B2)
+![PyTorch](https://img.shields.io/badge/-PyTorch-white?&logo=PyTorch&logoColor=EE4C2C)
 
 ### Find me at:
 [![Gmail](https://img.shields.io/badge/-Gmail-white.svg?&logo=gmail&logoColor=)](mailto:dangtrung@gmail.com)
