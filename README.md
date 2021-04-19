@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/intro.gif)](https://dang-trung.github.io/)
 
-_Research Intern at [Center VERA](https://www.unive.it/pag/35190/)_ <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="25">  
-_Master of Science in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_ <img src="https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/graduation.gif" width="25">
+_Researcher Intern at [Center VERA](https://www.unive.it/pag/35190/)_ 
+_Master of Science in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_
 
 ### Languages: 
 
@@ -18,7 +18,7 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![Jupyter](https://img.shields.io/badge/-Jupyter-fff?&logo=jupyter&style=flat)
 ![SPSS](https://img.shields.io/badge/-SPSS-white?&logo=IBM&logoColor=blue)
 ![Tableau](https://img.shields.io/badge/-Tableau-white?&logo=Tableau&logoColor=E97627)
-<img align='right' src= "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+<img align='right' src= "https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/doge.gif" width="200">
 
 ### Frameworks:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-fff?&logo=scikit-learn&style=flat)
