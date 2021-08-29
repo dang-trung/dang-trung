@@ -32,7 +32,7 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![Machine Learning](https://img.shields.io/badge/-🔥%20Machine%20Learning-grey)
 ![Sentiment Analysis](https://img.shields.io/badge/-💬%20Sentiment%20Analysis-grey)
 
-### Trying to Learn:
+### Learning:
 ![C++](https://img.shields.io/badge/-C++-grey?&logo=c%2B%2B&logoColor=00599C)
 ![Julia](https://img.shields.io/badge/-Julia-grey?&logo=Julia&logoColor=9558B2)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?&logo=PyTorch&logoColor=EE4C2C)
