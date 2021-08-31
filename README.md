@@ -6,17 +6,16 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ### Languages: 
 
 [![Python](https://img.shields.io/badge/-Python-grey?&logo=python&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=python)
-[![MATLAB](https://img.shields.io/badge/-MATLAB-grey?&logo=Mathworks&logoColor=ffa500)](https://github.com/dang-trung?tab=repositories&q=&type=&language=matlab)
 [![R](https://img.shields.io/badge/-R-grey?&logo=R&logoColor=blue)](https://github.com/dang-trung?tab=repositories&q=&type=&language=r)
 [![HTML](https://img.shields.io/badge/-HTML-grey?&logo=html5&logoColor=E34F26)](https://github.com/dang-trung?tab=repositories&q=&type=&language=html)
 [![CSS](https://img.shields.io/badge/-CSS-grey?&logo=css3&logoColor=1572B6)](https://github.com/dang-trung?tab=repositories&q=&type=&language=html)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?&logo=PostgreSQL&logoColor=336791)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?&logo=PostgreSQL&logoColor=fff)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-grey?&logo=git&style=flat)
-![PyCharm](https://img.shields.io/badge/-PyCharm-grey?&logo=pycharm&style=flat&logoColor=black)
+![PyCharm](https://img.shields.io/badge/-PyCharm-grey?&logo=pycharm&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-grey?&logo=jupyter&style=flat)
-![SPSS](https://img.shields.io/badge/-SPSS-grey?&logo=IBM&logoColor=blue)
+![SPSS](https://img.shields.io/badge/-SPSS-grey?&logo=IBM)
 ![Tableau](https://img.shields.io/badge/-Tableau-grey?&logo=Tableau&logoColor=E97627)
 <img align='right' src= "https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/doge.gif" width="200">
 
