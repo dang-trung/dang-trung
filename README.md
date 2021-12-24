@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/intro.gif)](https://dang-trung.github.io/)
 
-_Researcher Intern at [Center VERA](https://www.unive.it/pag/35190/)_   
+_Quantitative Analyst at [BIDV Securities](https://bsc.com.vn/)_   
 _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_
 
 ### Languages: 
