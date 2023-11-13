@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/dang-trung/dang-trung/master/assets/intro.gif)](https://dang-trung.github.io/)
 
-_Quantitative Analyst at [BIDV Securities](https://bsc.com.vn/)_   
+_Quant Dev & Analyst at [BIDV Securities](https://bsc.com.vn/)_   
 _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.unive.it/pag/13526/)_
 
 ### Languages: 
@@ -13,6 +13,8 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-grey?&logo=git&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-grey?&logo=visualstudiocode&style=flat)
+![Poetry](https://img.shields.io/badge/-Poetry-grey?&logo=poetry&style=flat)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-grey?&logo=pycharm&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-grey?&logo=jupyter&style=flat)
 ![SPSS](https://img.shields.io/badge/-SPSS-grey?&logo=IBM)
@@ -25,6 +27,8 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![Keras](https://img.shields.io/badge/-Keras-grey?&logo=keras&style=flat&logoColor=d00000)
 ![Django](https://img.shields.io/badge/-Django-grey?&logo=django&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-grey?&logo=flask&style=flat&logoColor=black)
+![Prefect](https://img.shields.io/badge/-Prefect-grey?&logo=prefect&style=flat)
+![Plotly](https://img.shields.io/badge/-Plotly-grey?&logo=plotly&style=flat)
 
 ### Interests:
 ![Algorithmic Trading](https://img.shields.io/badge/-%F0%9F%A4%96%20Algorithmic%20Trading-grey)
