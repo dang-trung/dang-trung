@@ -28,7 +28,6 @@ _Master of Science in Finance at [Ca' Foscari University of Venice](https://www.
 ![Django](https://img.shields.io/badge/-Django-grey?&logo=django&style=flat&logoColor=d00000)
 ![Flask](https://img.shields.io/badge/-Flask-grey?&logo=flask&style=flat&logoColor=black)
 ![Prefect](https://img.shields.io/badge/-Prefect-grey?&logo=prefect&style=flat)
-![Plotly](https://img.shields.io/badge/-Plotly-grey?&logo=plotly&style=flat)
 
 ### Interests:
 ![Algorithmic Trading](https://img.shields.io/badge/-%F0%9F%A4%96%20Algorithmic%20Trading-grey)
